@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfilio/static/css/main.fbf048bd.css",
+    "main.js": "/Portfilio/static/js/main.156eb0d2.js",
+    "static/js/787.bbd0f1b9.chunk.js": "/Portfilio/static/js/787.bbd0f1b9.chunk.js",
+    "static/media/Nehad_Shretah_Light.jpg": "/Portfilio/static/media/Nehad_Shretah_Light.d0f3e5d14ecb34623173.jpg",
+    "static/media/Nehad_Shretah_Dark.jpg": "/Portfilio/static/media/Nehad_Shretah_Dark.2afc4ae276c471150f2e.jpg",
+    "index.html": "/Portfilio/index.html",
+    "main.fbf048bd.css.map": "/Portfilio/static/css/main.fbf048bd.css.map",
+    "main.156eb0d2.js.map": "/Portfilio/static/js/main.156eb0d2.js.map",
+    "787.bbd0f1b9.chunk.js.map": "/Portfilio/static/js/787.bbd0f1b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbf048bd.css",
+    "static/js/main.156eb0d2.js"
+  ]
+}
