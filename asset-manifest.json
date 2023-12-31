@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Portfilio/static/css/main.9d54aa76.css",
-    "main.js": "/Portfilio/static/js/main.77d41880.js",
-    "static/js/787.bbd0f1b9.chunk.js": "/Portfilio/static/js/787.bbd0f1b9.chunk.js",
+    "main.js": "/Portfilio/static/js/main.d9b54f1f.js",
+    "static/js/787.78eb0625.chunk.js": "/Portfilio/static/js/787.78eb0625.chunk.js",
     "static/media/Nehad_Shretah_Light.jpg": "/Portfilio/static/media/Nehad_Shretah_Light.b7a22acc827c5c3550f9.jpg",
     "static/media/Nehad_Shretah_Dark.jpg": "/Portfilio/static/media/Nehad_Shretah_Dark.e0de7a1a5102c4313a6d.jpg",
     "static/media/Age_Caluclautor.jpg": "/Portfilio/static/media/Age_Caluclautor.9e044ef777568db28109.jpg",
     "index.html": "/Portfilio/index.html",
     "main.9d54aa76.css.map": "/Portfilio/static/css/main.9d54aa76.css.map",
-    "main.77d41880.js.map": "/Portfilio/static/js/main.77d41880.js.map",
-    "787.bbd0f1b9.chunk.js.map": "/Portfilio/static/js/787.bbd0f1b9.chunk.js.map"
+    "main.d9b54f1f.js.map": "/Portfilio/static/js/main.d9b54f1f.js.map",
+    "787.78eb0625.chunk.js.map": "/Portfilio/static/js/787.78eb0625.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d54aa76.css",
-    "static/js/main.77d41880.js"
+    "static/js/main.d9b54f1f.js"
   ]
 }
